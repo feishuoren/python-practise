@@ -1,1 +1,5 @@
-# python-practise
+# Python 推荐系统课程练习
+
+## 课本
+- 《笨方法学python》
+- 《面向程序员的数据挖掘指南》
